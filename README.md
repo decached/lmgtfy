@@ -1,6 +1,5 @@
 Command line tool for http://lmgtfy.com/
 ===
-[![Build Status](https://travis-ci.org/decached/fbterminal.png?branch=master)](https://travis-ci.org/decached/fbterminal)
 
 Features
 ---
