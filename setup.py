@@ -4,7 +4,7 @@ with open('README.md') as file:
     long_description = file.read()
 
 setup(
-    name='Lmgtfy',
+    name='lmgtfy',
     description='Let me Google that for you',
     version='0.1',
     packages=['lmgtfy'],
