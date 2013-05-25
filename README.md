@@ -1,7 +1,7 @@
 Command line tool for http://lmgtfy.com/
 ===
-[![Pypi Version](https://pypip.in/v/lmgtfy/badge.png)](https://crate.io/package/lmgtfy)
-[![Downloads](https://pypip.in/d/lmgtfy/badge.png)](https://crate.io/package/lmgtfy)
+[![Pypi Version](https://pypip.in/v/lmgtfy/badge.png)](https://crate.io/package/lmgtfy)  
+[![Downloads](https://pypip.in/d/lmgtfy/badge.png)](https://crate.io/package/lmgtfy)  
 [![Build Status](https://travis-ci.org/decached/lmgtfy.png?branch=master)](https://travis-ci.org/decached/lmgtfy)
 
 Features
